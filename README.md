@@ -1,3 +1,7 @@
+I REMOVE THE TOKEN LOGGER << 
+
+Run the install.bat then Put ur token and pw in config then Run  Exeter Launcher By TOON 
+
 # exeter-selfbot-beta
 beta release version for my discord selfbot
 
